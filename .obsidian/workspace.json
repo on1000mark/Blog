@@ -11,8 +11,12 @@
             "id": "22f3d92be505c7f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Listen for the sake of listening/テスト２.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Listen for the sake of listening/テスト２.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Listen for the sake of listening/テスト２.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Listen for the sake of listening/テスト２.md"
+              }
             }
           }
         ]
@@ -140,9 +148,10 @@
   },
   "active": "22f3d92be505c7f5",
   "lastOpenFiles": [
-    "テスト２.md",
-    "Listen for the sake of listening/テスト２.md",
     "Listen for the sake of listening/テスト.md",
+    "Listen for the sake of listening/テスト２.md",
+    "Listen for the sake of listening/2023.5.29",
+    "テスト２.md",
     "Listen for the sake of listening",
     "新しいフォルダー",
     "テスト.md",
