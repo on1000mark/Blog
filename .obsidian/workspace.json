@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6abc5deb4aed57c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "聞くために聞く-demo/2023-05-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "聞くために聞く-demo/2023-05-29.md",
+                "file": "聞くために聞く-demo/2023-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "聞くために聞く-demo/2023-05-29.md",
+                "file": "聞くために聞く-demo/2023-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "聞くために聞く-demo/2023-05-29.md"
+                "file": "聞くために聞く-demo/2023-05-31.md"
               }
             }
           }
@@ -146,10 +159,14 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "96a077425e4ba266",
+  "active": "04b2119a8cabf85a",
   "lastOpenFiles": [
-    "聞くために聞く-demo/無題のファイル.md",
+    "聞くために聞く-demo/聞くために聞くメモ.md",
+    "聞くために聞く-demo/2023-05-31.md",
     "聞くために聞く-demo/2023-05-29.md",
+    "聞くために聞く-本執筆",
+    "聞くために聞く.md",
+    "聞くために聞く-demo/無題のファイル.md",
     "聞くために聞く-demo/テスト２.md",
     "聞くために聞く-demo/テスト.md",
     "聞くために聞く.md",
