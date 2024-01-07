@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "聞くために聞く-demo/2024-01-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "920a9661ed2096e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "聞くために聞く-demo/2023-12-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "聞くために聞く-demo/2024-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "聞くために聞く-demo/2024-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-22.md"
+                "file": "聞くために聞く-demo/2024-01-07.md"
               }
             }
           }
@@ -148,11 +160,15 @@
   },
   "active": "e343983a2c9e9ef0",
   "lastOpenFiles": [
+    "聞くために聞く-demo/2023-12-30.md",
+    "聞くために聞く-demo/2024-01-07.md",
+    "聞くために聞く-demo/メモ.md",
+    "聞くために聞く-demo/2023-12-22.md",
     "聞くために聞く-demo/2023-12-21.md",
-    "2023-12-22.md",
+    "聞こえくる過去.png",
+    "聞こえくる過去.jpg.crdownload",
     "聞くために聞く-demo/2023-12-15.md",
     "聞くために聞く-demo/2023-12-21 1.md",
-    "聞くために聞く-demo/メモ.md",
     "聞くために聞く-demo/2023-12-07.md",
     "聞くために聞く-demo/2023-12-14.md",
     "聞くために聞く-demo/2023-12-05.md",
@@ -177,8 +193,6 @@
     "空耳.png",
     "空耳.png.md",
     "フィーレコ画像.jpg",
-    "聞くために聞く-demo/2023-11-07.md",
-    "無題のファイル.md",
     "フィーレコ.jpg",
     "Pasted image 20231106212915.png",
     "Pasted image 20231106212608.png",
