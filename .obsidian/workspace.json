@@ -16,7 +16,9 @@
                 "file": "聞くために聞く-demo/2024-02-23.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-02-23"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "聞くために聞く-demo/2024-05-04.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-05-04"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "聞くために聞く-demo/2024-05-04.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-05-04"
             }
           },
           {
@@ -50,7 +56,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.3"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.3"
             }
           },
           {
@@ -60,7 +68,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.5"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.5"
             }
           },
           {
@@ -72,7 +82,23 @@
                 "file": "聞くために聞く-demo/2024-11-02.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-02"
+            }
+          },
+          {
+            "id": "fc8a35aa48cf0cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "聞くために聞く-demo/2024-11-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-03"
             }
           },
           {
@@ -84,11 +110,13 @@
                 "file": "聞くために聞く-demo/2023-12-30.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2023-12-30"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -108,7 +136,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
             }
           },
           {
@@ -123,7 +153,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "検索"
             }
           },
           {
@@ -131,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
             }
           }
         ]
@@ -154,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "聞くために聞く-demo/2024-11-02.md",
+                "file": "聞くために聞く-demo/2024-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +196,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2024-11-03へのバックリンク"
             }
           },
           {
@@ -171,10 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "聞くために聞く-demo/2024-11-02.md",
+                "file": "聞くために聞く-demo/2024-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2024-11-03からのアウトゴーイングリンク"
             }
           },
           {
@@ -185,7 +223,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
             }
           },
           {
@@ -194,8 +234,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "聞くために聞く-demo/2024-11-02.md"
-              }
+                "file": "聞くために聞く-demo/2024-11-03.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-11-03のアウトライン"
             }
           }
         ]
@@ -215,8 +257,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "d82ae9cad5bbaffa",
+  "active": "fc8a35aa48cf0cc0",
   "lastOpenFiles": [
+    "聞くために聞く-demo/2024-11-02.md",
+    "聞くために聞く-demo/2024-11-03.md",
     "聞くために聞く-demo/メモ.md",
     "スクリーンショット 2024-01-13 222950.png",
     "hozon.jpg",
@@ -228,7 +272,6 @@
     "聞くために聞く-demo/2023-11-08 メモ.md",
     "聞くために聞く-demo/2024-03-10 メモ.md",
     "聞くために聞く-demo/2024-03-04全体メモ.md",
-    "聞くために聞く-demo/2024-11-02.md",
     "聞くために聞く-demo/2024-05-04.md",
     "聞くために聞く-demo/2024-02-24.md",
     "聞くために聞く-demo/2024-02-23.md",
